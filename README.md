@@ -1,66 +1,126 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
+<h1>Ricardo Sawir</h1>
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<a href="https://linkedin.com/in/sawirricardo">LinkedIn</a>
+<a href="https://github.com/sawirricardo">Github</a>
+<a href="https://twitter.com/RicardoSawir">Twitter</a>
+    
+</p>
+<p><p>Hi 👋 , I'm a full stack developer helping commercial and international businesses working primarily in niche industries like aviation, medical, travel, Humah resource, and ecommerce. I've successfully helped my clients and employers to bring their applications and tech to the next level.</p><p>I also have developed and deployed apps to production and has been used by real users.</p></p>
+
+<div>
+<h2>Aeroquote Australasia Pty Ltd</h2>
+<p>
+<a href="https://aeroquote.com">Website</a>
 </p>
 
-## About Laravel
+</div>
+<div>
+<h2>PeopleBond Indonesia</h2>
+<p>
+<a href="https://peoplebond.id">Website</a>
+    |
+<a href="https://client.peoplebond.id">Client Management System</a>
+</p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+</div>
+<div>
+<h2>PT. Kantong Sayur Indonesia</h2>
+<p>
+<a href="https://kantongsayur.net/">Website</a>
+    |
+<a href="https://play.google.com/store/apps/details?id=com.kantongsayur.kantongsayur&amp;pli=1">Mobile Android</a>
+    |
+<a href="https://apps.apple.com/id/app/kantongsayur/id1632351842">Mobile iOS</a>
+    |
+<a href="https://play.google.com/store/apps/details?id=com.kantongsayur.merchantapp">Merchant App</a>
+</p>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+</div>
+<div>
+<h2>MyVivaldy</h2>
+<p>
+<a href="https://myvivaldy.com">Application</a>
+    |
+<span>Coming Soon</span>
+</p>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+</div>
+<div>
+<h2>Vivaldy Skin Clinic</h2>
+<p>
+<a href="https://vivaldyskinclinic.id">Website</a>
+    |
+<a href="https://shop.vivaldyskinclinic.id">Ecommerce</a>
+</p>
 
-## Learning Laravel
+</div>
+<div>
+<h2>GBI WTC</h2>
+<p>
+<a href="https://gbiwtc-backend.herokuapp.com">Church Management System</a>
+    |
+<a href="https://play.google.com/store/apps/details?id=com.andrewsoft.gbiwtc&amp;hl=en&amp;gl=US">GBI WTC (Android)</a>
+    |
+<a href="https://apps.apple.com/id/app/gbi-wtc/id1319258434">GBI WTC (iOS)</a>
+    |
+<a href="https://play.google.com/store/apps/details?id=com.gbiwtc.msjapp&amp;hl=en&amp;gl=US">My Spiritual Journey</a>
+    |
+<a href="https://apps.apple.com/id/app/my-spiritual-journey/id6447964122">My Spiritual Journey (iOS)</a>
+</p>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+</div>
+<div>
+<h2>PT. Kencana Indah Astari</h2>
+<p>
+<a href="https://ext.kiatravels.com">Application</a>
+</p>
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+</div>
+<div>
+<h2>PT. Akuisisi Karya Bangsa</h2>
+<p>
+<a href="https://akuisisi.co">Website</a>
+</p>
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+</div>
+<div>
+<h2>TaniMilenial</h2>
+<p>
+<a href="https://app.tanimilenial.com">Application</a>
+</p>
 
-## Laravel Sponsors
+</div>
+<div>
+<h2>ADL Partnership</h2>
+<p>
+<a href="https://adlpartnership.com">Website</a>
+</p>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+</div>
+<div>
+<h2>PT. Adiwarna Anugerah Abadi</h2>
+<p>
+<a href="https://adiwarna.co.id">Website</a>
+</p>
 
-### Premium Partners
+</div>
+<div>
+<h2>PT. SPP Indonesia</h2>
+<p>
+<a href="https://sppindonesia.co.id">Website</a>
+</p>
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+</div>
+<div>
+<h2>Indonesia Research Institute Japan</h2>
+<p>
+<a href="https://irij-jakarta.com">Website</a>
+</p>
 
-## Contributing
+</div>
+<div>
+<h2>PT. Sumasteel Indonesia</h2>
+<p>
+</p>
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+</div>
