@@ -3,7 +3,7 @@ $record = \App\Models\User::query()
     ->with('companies.projects')
     ->first();
 ?>
-<h1>{{ $record->name }}</h1>
+<h1 align="center">{{ $record->name }}</h1>
 <p align="center">
 <a href="https://linkedin.com/in/{{ $record->linkedin_id }}">LinkedIn</a>
 <a href="https://github.com/{{ $record->github_id }}">Github</a>

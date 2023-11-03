@@ -1,4 +1,4 @@
-<h1>Ricardo Sawir</h1>
+<h1 align="center">Ricardo Sawir</h1>
 <p align="center">
 <a href="https://linkedin.com/in/sawirricardo">LinkedIn</a>
 <a href="https://github.com/sawirricardo">Github</a>
