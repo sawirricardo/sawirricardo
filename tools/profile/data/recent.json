@@ -1,0 +1,37 @@
+[
+  {
+    "name": "rorkai/App-Store-Connect-CLI",
+    "url": "https://github.com/rorkai/App-Store-Connect-CLI/pull/2855",
+    "pushed_at": "2026-10-02T23:42:40Z",
+    "desc": "fix(web): accept Apple's zero-total placeholder on Bundle ID App Group graphs",
+    "state": "MERGED"
+  },
+  {
+    "name": "OCA/connector-shopify",
+    "url": "https://github.com/OCA/connector-shopify/pull/17",
+    "pushed_at": "2026-09-28T14:30:46Z",
+    "desc": "[19.0][FIX] shopify_connector: allow delivery validation without Shopify access",
+    "state": "MERGED"
+  },
+  {
+    "name": "pestphp/pest-plugin-browser",
+    "url": "https://github.com/pestphp/pest-plugin-browser/pull/264",
+    "pushed_at": "2026-09-16T10:34:49Z",
+    "desc": "feat: allow attaching to an external browser over CDP",
+    "state": "OPEN"
+  },
+  {
+    "name": "filamentphp/filament",
+    "url": "https://github.com/filamentphp/filament/pull/20506",
+    "pushed_at": "2026-09-15T07:54:26Z",
+    "desc": "fix: skip tenant association for `HasOneThrough` ownership relationships",
+    "state": "MERGED"
+  },
+  {
+    "name": "forjedio/yerd",
+    "url": "https://github.com/forjedio/yerd/pull/228",
+    "pushed_at": "2026-08-27T11:15:17Z",
+    "desc": "[Fix] Split PATH_INFO at the first PHP segment for direct sites",
+    "state": "MERGED"
+  }
+]

@@ -1,5 +1,22 @@
-Hi! 👋 
-
-1. [Todors](https://github.com/sawirricardo/todors) - Rust CLI todo app
-2. [icdcli](https://github.com/sawirricardo/icdcli) - Go CLI client for the WHO ICD API v2
-3. [ehrcli](https://github.com/sawirricardo/ehrcli) - Local CLI for working with HL7 FHIR R4 resources in SQLite
+<p align="center">
+<img src="./assets/header.svg" width="100%" align="top" alt="Ricardo Sawir: Full-stack engineer working in Laravel, TypeScript and Python. Maintainer of OCA/connector-shopify. Building SaaS, apps and automation at Sawir Studio.">
+<img src="./assets/links.svg" width="100%" align="top" alt="Links">
+<a href="https://x.com/RicardoSawir"><img src="./assets/links/x.svg" width="25%" align="top" alt="X: @RicardoSawir"></a><a href="https://sawirstudio.com"><img src="./assets/links/website.svg" width="25%" align="top" alt="Website: sawirstudio.com"></a><a href="https://github.com/sawirstudio"><img src="./assets/links/studio.svg" width="25%" align="top" alt="Studio: @sawirstudio"></a><a href="https://github.com/OCA/connector-shopify"><img src="./assets/links/oca.svg" width="25%" align="top" alt="OCA: connector-shopify"></a>
+<img src="./assets/stats.svg" width="100%" align="top" alt="Stats: 299 total stars; 459 contributions in 2026, 1889 all time; 856 pull requests (733 merged); current streak 1 days, longest 12; 110 followers; member since March 2018. Top languages: PHP, JavaScript, HTML, Blade, TypeScript.">
+<img src="./assets/contribution-city.svg" width="100%" align="top" alt="Contribution city: an isometric night skyline with one building per day of the last year. 577 contributions, busiest day June 12 with 95.">
+<img src="./assets/projects.svg" width="100%" align="top" alt="Projects">
+<a href="https://github.com/OCA/connector-shopify"><img src="./assets/card-connector-shopify.svg" width="50%" align="top" alt="connector-shopify: Open-source Shopify &lt;&gt; Odoo connector: syncs products, orders, stock and customers with Odoo. Python · Odoo 19 · Shopify API."></a><a href="https://github.com/sawirricardo/openjek.com"><img src="./assets/card-openjek.svg" width="50%" align="top" alt="openjek.com: Open-source, API-first ride hailing system, like Uber, Grab or Gojek. PHP · Laravel · REST API."></a>
+<a href="https://github.com/sawirricardo/lazysvn"><img src="./assets/card-lazysvn.svg" width="50%" align="top" alt="lazysvn: A lightweight, LazyGit-style terminal UI for Subversion (SVN). Go · TUI · Subversion."></a><a href="https://github.com/sawirricardo/remix-realworld"><img src="./assets/card-remix-realworld.svg" width="50%" align="top" alt="remix-realworld: Exemplary RealWorld app (a Medium.com clone) built with Remix. Remix · React · TypeScript."></a>
+<a href="https://github.com/sawirricardo/laravel-whatsapp"><img src="./assets/card-laravel-whatsapp.svg" width="50%" align="top" alt="laravel-whatsapp: Enhance your Laravel apps with WhatsApp&#x27;s Cloud API. PHP · Laravel · WhatsApp Cloud API."></a><a href="https://github.com/sawirricardo/ehrcli"><img src="./assets/card-ehrcli.svg" width="50%" align="top" alt="ehrcli: A small local CLI for working with HL7 FHIR R4 resources, stored in SQLite. Go · HL7 FHIR R4 · SQLite."></a>
+<img src="./assets/stack.svg" width="100%" align="top" alt="Tech stack. languages: PHP, TypeScript, Python, Go, Swift. frameworks: Laravel, Livewire, Inertia, Odoo, FastAPI. front-end: React, Vue, Remix, Tailwind CSS, Alpine.js. databases: MySQL, PostgreSQL, SQLite, Redis. infra: AWS, Docker, Cloudflare, Tailscale.">
+<img src="./assets/recent.svg" width="100%" align="top" alt="Latest pull requests">
+<!-- recent:start -->
+<a href="https://github.com/rorkai/App-Store-Connect-CLI/pull/2855"><img src="./assets/recent/repo-1.svg" width="100%" align="top" alt="rorkai/App-Store-Connect-CLI: pull request &quot;fix(web): accept Apple&#x27;s zero-total placeholder on Bundle ID App Group graphs&quot;, opened 2026-10-02, merged."></a>
+<a href="https://github.com/OCA/connector-shopify/pull/17"><img src="./assets/recent/repo-2.svg" width="100%" align="top" alt="OCA/connector-shopify: pull request &quot;[19.0][FIX] shopify_connector: allow delivery validation without Shopify access&quot;, opened 2026-09-28, merged."></a>
+<a href="https://github.com/pestphp/pest-plugin-browser/pull/264"><img src="./assets/recent/repo-3.svg" width="100%" align="top" alt="pestphp/pest-plugin-browser: pull request &quot;feat: allow attaching to an external browser over CDP&quot;, opened 2026-09-16, open."></a>
+<a href="https://github.com/filamentphp/filament/pull/20506"><img src="./assets/recent/repo-4.svg" width="100%" align="top" alt="filamentphp/filament: pull request &quot;fix: skip tenant association for `HasOneThrough` ownership relationships&quot;, opened 2026-09-15, merged."></a>
+<a href="https://github.com/forjedio/yerd/pull/228"><img src="./assets/recent/repo-5.svg" width="100%" align="top" alt="forjedio/yerd: pull request &quot;[Fix] Split PATH_INFO at the first PHP segment for direct sites&quot;, opened 2026-08-27, merged."></a>
+<!-- recent:end -->
+<a href="https://github.com/pulls?q=is%3Apr+author%3Asawirricardo+is%3Apublic"><img src="./assets/recent/all-repos.svg" width="100%" align="top" alt="All pull requests"></a>
+<img src="./assets/footer.svg" width="100%" align="top" alt="Connection closed.">
+</p>

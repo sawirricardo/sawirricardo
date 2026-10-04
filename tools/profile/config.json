@@ -1,0 +1,49 @@
+{
+  "kind": "user",
+  "login": "sawirricardo",
+  "header": {
+    "bar_left": "SYS://SAWIR-STUDIO // NODE:RICARDO",
+    "name": "RICARDO SAWIR",
+    "lines": [
+      "full-stack engineer · Laravel / TypeScript / Python",
+      "maintainer of OCA/connector-shopify (Shopify <> Odoo)",
+      "building SaaS, apps and automation at "
+    ],
+    "highlight": "SAWIR STUDIO",
+    "title": "Ricardo Sawir",
+    "desc": "Full-stack engineer working in Laravel, TypeScript and Python. Maintainer of OCA/connector-shopify. Building SaaS, apps and automation at Sawir Studio."
+  },
+  "links": [
+    {"slug": "x", "icon": "x", "label": "X", "handle": "@RicardoSawir", "url": "https://x.com/RicardoSawir"},
+    {"slug": "website", "icon": "web", "label": "Website", "handle": "sawirstudio.com", "url": "https://sawirstudio.com"},
+    {"slug": "studio", "icon": "github", "label": "Studio", "handle": "@sawirstudio", "url": "https://github.com/sawirstudio"},
+    {"slug": "oca", "icon": "github", "label": "OCA", "handle": "connector-shopify", "url": "https://github.com/OCA/connector-shopify"}
+  ],
+  "projects": [
+    {"slug": "connector-shopify", "name": "connector-shopify", "repo": "OCA/connector-shopify", "url": "https://github.com/OCA/connector-shopify",
+     "tag": "OCA MAINTAINER", "tag_color": "green", "stack": "Python · Odoo 19 · Shopify API",
+     "desc": "Open-source Shopify <> Odoo connector: syncs products, orders, stock and customers with Odoo."},
+    {"slug": "openjek", "name": "openjek.com", "repo": "sawirricardo/openjek.com", "url": "https://github.com/sawirricardo/openjek.com",
+     "tag": "OPEN SOURCE", "tag_color": "magenta", "stack": "PHP · Laravel · REST API",
+     "desc": "Open-source, API-first ride hailing system, like Uber, Grab or Gojek."},
+    {"slug": "lazysvn", "name": "lazysvn", "repo": "sawirricardo/lazysvn", "url": "https://github.com/sawirricardo/lazysvn",
+     "tag": "TERMINAL UI", "tag_color": "cyan", "stack": "Go · TUI · Subversion",
+     "desc": "A lightweight, LazyGit-style terminal UI for Subversion (SVN)."},
+    {"slug": "remix-realworld", "name": "remix-realworld", "repo": "sawirricardo/remix-realworld", "url": "https://github.com/sawirricardo/remix-realworld",
+     "tag": "REALWORLD SPEC", "tag_color": "green", "stack": "Remix · React · TypeScript",
+     "desc": "Exemplary RealWorld app (a Medium.com clone) built with Remix."},
+    {"slug": "laravel-whatsapp", "name": "laravel-whatsapp", "repo": "sawirricardo/laravel-whatsapp", "url": "https://github.com/sawirricardo/laravel-whatsapp",
+     "tag": "LARAVEL PACKAGE", "tag_color": "magenta", "stack": "PHP · Laravel · WhatsApp Cloud API",
+     "desc": "Enhance your Laravel apps with WhatsApp's Cloud API."},
+    {"slug": "ehrcli", "name": "ehrcli", "repo": "sawirricardo/ehrcli", "url": "https://github.com/sawirricardo/ehrcli",
+     "tag": "CLI", "tag_color": "cyan", "stack": "Go · HL7 FHIR R4 · SQLite",
+     "desc": "A small local CLI for working with HL7 FHIR R4 resources, stored in SQLite."}
+  ],
+  "stack": [
+    ["languages", ["PHP", "TypeScript", "Python", "Go", "Swift"]],
+    ["frameworks", ["Laravel", "Livewire", "Inertia", "Odoo", "FastAPI"]],
+    ["front-end", ["React", "Vue", "Remix", "Tailwind CSS", "Alpine.js"]],
+    ["databases", ["MySQL", "PostgreSQL", "SQLite", "Redis"]],
+    ["infra", ["AWS", "Docker", "Cloudflare", "Tailscale"]]
+  ]
+}
