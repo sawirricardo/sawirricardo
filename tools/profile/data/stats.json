@@ -39,7 +39,7 @@
   "year": 2026,
   "contributions_year": 461,
   "contributions_all": 1891,
-  "streak_current": 2,
+  "streak_current": 0,
   "streak_longest": 12,
   "project_stars": {
     "OCA/connector-shopify": 4,
@@ -49,5 +49,5 @@
     "sawirricardo/laravel-whatsapp": 19,
     "sawirricardo/ehrcli": 0
   },
-  "updated": "2026-10-05"
+  "updated": "2026-10-06"
 }
