@@ -1,5 +1,12 @@
 [
   {
+    "name": "laravelio/laravel.io",
+    "url": "https://github.com/laravelio/laravel.io/pull/1551",
+    "pushed_at": "2026-10-09T08:32:39Z",
+    "desc": "Let users upload a profile picture",
+    "state": "OPEN"
+  },
+  {
     "name": "rorkai/App-Store-Connect-CLI",
     "url": "https://github.com/rorkai/App-Store-Connect-CLI/pull/2855",
     "pushed_at": "2026-10-02T23:42:40Z",
@@ -25,13 +32,6 @@
     "url": "https://github.com/filamentphp/filament/pull/20506",
     "pushed_at": "2026-09-15T07:54:26Z",
     "desc": "fix: skip tenant association for `HasOneThrough` ownership relationships",
-    "state": "MERGED"
-  },
-  {
-    "name": "forjedio/yerd",
-    "url": "https://github.com/forjedio/yerd/pull/228",
-    "pushed_at": "2026-08-27T11:15:17Z",
-    "desc": "[Fix] Split PATH_INFO at the first PHP segment for direct sites",
     "state": "MERGED"
   }
 ]
