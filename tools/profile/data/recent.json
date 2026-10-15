@@ -1,5 +1,12 @@
 [
   {
+    "name": "OCA/connector-shopify",
+    "url": "https://github.com/OCA/connector-shopify/pull/21",
+    "pushed_at": "2026-10-15T06:33:55Z",
+    "desc": "[19.0][FIX] shopify_connector: align GraphQL documents with Admin API 2026-01",
+    "state": "MERGED"
+  },
+  {
     "name": "laravelio/laravel.io",
     "url": "https://github.com/laravelio/laravel.io/pull/1551",
     "pushed_at": "2026-10-09T08:32:39Z",
@@ -26,12 +33,5 @@
     "pushed_at": "2026-09-16T10:34:49Z",
     "desc": "feat: allow attaching to an external browser over CDP",
     "state": "OPEN"
-  },
-  {
-    "name": "filamentphp/filament",
-    "url": "https://github.com/filamentphp/filament/pull/20506",
-    "pushed_at": "2026-09-15T07:54:26Z",
-    "desc": "fix: skip tenant association for `HasOneThrough` ownership relationships",
-    "state": "MERGED"
   }
 ]
