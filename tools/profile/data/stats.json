@@ -4,7 +4,7 @@
   "followers": 110,
   "prs": 858,
   "prs_merged": 735,
-  "stars": 300,
+  "stars": 299,
   "forks": 74,
   "repo_count": 109,
   "languages": {
@@ -46,8 +46,8 @@
     "sawirricardo/openjek.com": 18,
     "sawirricardo/lazysvn": 11,
     "sawirricardo/remix-realworld": 52,
-    "sawirricardo/laravel-whatsapp": 19,
+    "sawirricardo/laravel-whatsapp": 18,
     "sawirricardo/ehrcli": 0
   },
-  "updated": "2026-10-17"
+  "updated": "2026-10-18"
 }
