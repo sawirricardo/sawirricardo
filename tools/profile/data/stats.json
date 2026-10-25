@@ -8,15 +8,15 @@
   "forks": 73,
   "repo_count": 109,
   "languages": {
-    "PHP": 23293292,
-    "JavaScript": 4205601,
-    "HTML": 1601865,
+    "PHP": 23291757,
+    "JavaScript": 4138270,
+    "HTML": 1841179,
     "Blade": 583097,
     "TypeScript": 202104,
     "Vue": 186488,
     "Go": 170498,
+    "CSS": 158771,
     "Rust": 138202,
-    "CSS": 102571,
     "Python": 95355,
     "Zig": 89423,
     "Ruby": 84783,
@@ -25,7 +25,6 @@
     "Handlebars": 20060,
     "Dart": 19892,
     "C++": 16825,
-    "MDX": 14660,
     "Solidity": 11672,
     "CMake": 7953,
     "Dockerfile": 5347,
@@ -37,9 +36,9 @@
     "Procfile": 86
   },
   "year": 2026,
-  "contributions_year": 468,
-  "contributions_all": 1898,
-  "streak_current": 0,
+  "contributions_year": 483,
+  "contributions_all": 1913,
+  "streak_current": 1,
   "streak_longest": 12,
   "project_stars": {
     "OCA/connector-shopify": 4,
@@ -49,5 +48,5 @@
     "sawirricardo/laravel-whatsapp": 18,
     "sawirricardo/ehrcli": 0
   },
-  "updated": "2026-10-24"
+  "updated": "2026-10-25"
 }
