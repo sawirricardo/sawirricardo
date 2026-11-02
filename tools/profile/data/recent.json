@@ -1,5 +1,12 @@
 [
   {
+    "name": "KenneyNL/Adobe-Alternatives",
+    "url": "https://github.com/KenneyNL/Adobe-Alternatives/pull/268",
+    "pushed_at": "2026-11-02T10:33:49Z",
+    "desc": "Add Rindraw to Photoshop painting alternatives",
+    "state": "OPEN"
+  },
+  {
     "name": "OCA/connector-shopify",
     "url": "https://github.com/OCA/connector-shopify/pull/21",
     "pushed_at": "2026-10-15T06:33:55Z",
@@ -26,12 +33,5 @@
     "pushed_at": "2026-09-28T14:30:46Z",
     "desc": "[19.0][FIX] shopify_connector: allow delivery validation without Shopify access",
     "state": "MERGED"
-  },
-  {
-    "name": "pestphp/pest-plugin-browser",
-    "url": "https://github.com/pestphp/pest-plugin-browser/pull/264",
-    "pushed_at": "2026-09-16T10:34:49Z",
-    "desc": "feat: allow attaching to an external browser over CDP",
-    "state": "OPEN"
   }
 ]
