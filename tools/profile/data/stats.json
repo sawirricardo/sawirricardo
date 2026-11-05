@@ -2,22 +2,22 @@
   "kind": "user",
   "created_at": "2018-03-13T09:33:48Z",
   "followers": 109,
-  "prs": 874,
-  "prs_merged": 742,
+  "prs": 879,
+  "prs_merged": 749,
   "stars": 301,
   "forks": 72,
   "repo_count": 109,
   "languages": {
     "PHP": 23291757,
-    "JavaScript": 4150195,
-    "HTML": 2169910,
+    "JavaScript": 4151012,
+    "HTML": 2219979,
     "Blade": 583097,
     "TypeScript": 202104,
     "Vue": 186488,
-    "CSS": 173559,
+    "CSS": 175893,
     "Go": 170498,
     "Rust": 138202,
-    "Python": 95355,
+    "Python": 97719,
     "Zig": 89423,
     "Ruby": 84783,
     "Swift": 69045,
@@ -36,9 +36,9 @@
     "Procfile": 86
   },
   "year": 2026,
-  "contributions_year": 543,
-  "contributions_all": 1973,
-  "streak_current": 3,
+  "contributions_year": 558,
+  "contributions_all": 1988,
+  "streak_current": 4,
   "streak_longest": 12,
   "project_stars": {
     "OCA/connector-shopify": 6,
@@ -48,5 +48,5 @@
     "sawirricardo/laravel-whatsapp": 18,
     "sawirricardo/ehrcli": 0
   },
-  "updated": "2026-11-04"
+  "updated": "2026-11-05"
 }

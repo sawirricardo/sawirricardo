@@ -1,37 +1,37 @@
 [
   {
     "name": "OCA/connector-shopify",
-    "url": "https://github.com/OCA/connector-shopify/pull/42",
-    "pushed_at": "2026-11-04T10:08:24Z",
-    "desc": "[19.0][FIX] shopify_connector, shopify_connector_account: resume sync that stopped silently",
-    "state": "OPEN"
-  },
-  {
-    "name": "OCA/connector-shopify",
-    "url": "https://github.com/OCA/connector-shopify/pull/41",
-    "pushed_at": "2026-11-04T10:06:36Z",
-    "desc": "[19.0][FW] shopify_connector: improve fulfillments from Shopify",
+    "url": "https://github.com/OCA/connector-shopify/pull/47",
+    "pushed_at": "2026-11-05T08:40:46Z",
+    "desc": "[18.0][FIX] shopify_connector: report a Shopify cancel that Odoo did not apply",
     "state": "MERGED"
   },
   {
     "name": "OCA/connector-shopify",
-    "url": "https://github.com/OCA/connector-shopify/pull/40",
-    "pushed_at": "2026-11-04T10:05:41Z",
-    "desc": "[19.0][FIX] shopify_connector: seed customers whose first import failed",
+    "url": "https://github.com/OCA/connector-shopify/pull/46",
+    "pushed_at": "2026-11-05T08:40:36Z",
+    "desc": "[19.0][IMP] shopify_connector: import orders updated since last drift run",
     "state": "MERGED"
   },
   {
     "name": "OCA/connector-shopify",
-    "url": "https://github.com/OCA/connector-shopify/pull/39",
-    "pushed_at": "2026-11-04T10:05:04Z",
-    "desc": "[19.0][FIX] shopify_connector_account: keep payout entry errors and posted transactions",
-    "state": "OPEN"
+    "url": "https://github.com/OCA/connector-shopify/pull/45",
+    "pushed_at": "2026-11-04T14:28:23Z",
+    "desc": "[19.0][IMP] shopify_connector: name sale orders after their Shopify order",
+    "state": "MERGED"
   },
   {
     "name": "OCA/connector-shopify",
-    "url": "https://github.com/OCA/connector-shopify/pull/38",
-    "pushed_at": "2026-11-04T08:30:26Z",
-    "desc": "[19.0][FIX] shopify_connector: recover unconfirmed fulfillment pushes",
+    "url": "https://github.com/OCA/connector-shopify/pull/44",
+    "pushed_at": "2026-11-04T14:28:19Z",
+    "desc": "[19.0][IMP] shopify_connector: import the customer of an order",
+    "state": "MERGED"
+  },
+  {
+    "name": "OCA/connector-shopify",
+    "url": "https://github.com/OCA/connector-shopify/pull/43",
+    "pushed_at": "2026-11-04T14:21:15Z",
+    "desc": "[19.0][FIX] shopify_connector: cancel confirmed orders cancelled in Shopify",
     "state": "MERGED"
   }
 ]
