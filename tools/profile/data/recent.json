@@ -1,37 +1,37 @@
 [
   {
-    "name": "OCA/connector-shopify",
-    "url": "https://github.com/OCA/connector-shopify/pull/47",
-    "pushed_at": "2026-11-05T08:40:46Z",
-    "desc": "[18.0][FIX] shopify_connector: report a Shopify cancel that Odoo did not apply",
-    "state": "MERGED"
+    "name": "microsoft/winget-pkgs",
+    "url": "https://github.com/microsoft/winget-pkgs/pull/472266",
+    "pushed_at": "2026-11-06T11:02:21Z",
+    "desc": "New version: SawirStudio.LazySVN 0.4.2",
+    "state": "OPEN"
   },
   {
-    "name": "OCA/connector-shopify",
-    "url": "https://github.com/OCA/connector-shopify/pull/46",
-    "pushed_at": "2026-11-05T08:40:36Z",
-    "desc": "[19.0][IMP] shopify_connector: import orders updated since last drift run",
-    "state": "MERGED"
+    "name": "microsoft/winget-pkgs",
+    "url": "https://github.com/microsoft/winget-pkgs/pull/472009",
+    "pushed_at": "2026-11-06T04:36:33Z",
+    "desc": "New version: SawirStudio.LazySVN 0.4.1",
+    "state": "CLOSED"
   },
   {
-    "name": "OCA/connector-shopify",
-    "url": "https://github.com/OCA/connector-shopify/pull/45",
-    "pushed_at": "2026-11-04T14:28:23Z",
-    "desc": "[19.0][IMP] shopify_connector: name sale orders after their Shopify order",
-    "state": "MERGED"
+    "name": "microsoft/winget-pkgs",
+    "url": "https://github.com/microsoft/winget-pkgs/pull/471978",
+    "pushed_at": "2026-11-06T04:18:35Z",
+    "desc": "New version: SawirStudio.LazySVN 0.4.0",
+    "state": "CLOSED"
   },
   {
-    "name": "OCA/connector-shopify",
-    "url": "https://github.com/OCA/connector-shopify/pull/44",
-    "pushed_at": "2026-11-04T14:28:19Z",
-    "desc": "[19.0][IMP] shopify_connector: import the customer of an order",
-    "state": "MERGED"
+    "name": "rorkai/App-Store-Connect-CLI",
+    "url": "https://github.com/rorkai/App-Store-Connect-CLI/pull/3383",
+    "pushed_at": "2026-11-05T13:49:26Z",
+    "desc": "apps wall: add BabyAnalytic: Baby Tracker",
+    "state": "CLOSED"
   },
   {
-    "name": "OCA/connector-shopify",
-    "url": "https://github.com/OCA/connector-shopify/pull/43",
-    "pushed_at": "2026-11-04T14:21:15Z",
-    "desc": "[19.0][FIX] shopify_connector: cancel confirmed orders cancelled in Shopify",
+    "name": "rorkai/App-Store-Connect-CLI",
+    "url": "https://github.com/rorkai/App-Store-Connect-CLI/pull/3382",
+    "pushed_at": "2026-11-05T13:49:08Z",
+    "desc": "apps wall: add Squishu: Squishy Dumpling Game",
     "state": "MERGED"
   }
 ]
