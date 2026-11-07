@@ -1,5 +1,12 @@
 [
   {
+    "name": "OCA/connector-shopify",
+    "url": "https://github.com/OCA/connector-shopify/pull/54",
+    "pushed_at": "2026-11-07T08:38:05Z",
+    "desc": "[19.0][IMP] shopify_connector: search order address contacts in the database",
+    "state": "OPEN"
+  },
+  {
     "name": "microsoft/winget-pkgs",
     "url": "https://github.com/microsoft/winget-pkgs/pull/472266",
     "pushed_at": "2026-11-06T11:02:21Z",
@@ -26,12 +33,5 @@
     "pushed_at": "2026-11-05T13:49:26Z",
     "desc": "apps wall: add BabyAnalytic: Baby Tracker",
     "state": "CLOSED"
-  },
-  {
-    "name": "rorkai/App-Store-Connect-CLI",
-    "url": "https://github.com/rorkai/App-Store-Connect-CLI/pull/3382",
-    "pushed_at": "2026-11-05T13:49:08Z",
-    "desc": "apps wall: add Squishu: Squishy Dumpling Game",
-    "state": "MERGED"
   }
 ]
