@@ -4,7 +4,7 @@
     "url": "https://github.com/OCA/connector-shopify/pull/54",
     "pushed_at": "2026-11-07T08:38:05Z",
     "desc": "[19.0][IMP] shopify_connector: search order address contacts in the database",
-    "state": "OPEN"
+    "state": "MERGED"
   },
   {
     "name": "microsoft/winget-pkgs",
