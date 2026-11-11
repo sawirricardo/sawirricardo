@@ -1,5 +1,12 @@
 [
   {
+    "name": "hieunc229/mailflare",
+    "url": "https://github.com/hieunc229/mailflare/pull/285",
+    "pushed_at": "2026-11-11T02:32:00Z",
+    "desc": "fix(domains): list a mailbox manager's own domains alongside the creator's",
+    "state": "OPEN"
+  },
+  {
     "name": "OCA/connector-shopify",
     "url": "https://github.com/OCA/connector-shopify/pull/54",
     "pushed_at": "2026-11-07T08:38:05Z",
@@ -25,13 +32,6 @@
     "url": "https://github.com/microsoft/winget-pkgs/pull/471978",
     "pushed_at": "2026-11-06T04:18:35Z",
     "desc": "New version: SawirStudio.LazySVN 0.4.0",
-    "state": "CLOSED"
-  },
-  {
-    "name": "rorkai/App-Store-Connect-CLI",
-    "url": "https://github.com/rorkai/App-Store-Connect-CLI/pull/3383",
-    "pushed_at": "2026-11-05T13:49:26Z",
-    "desc": "apps wall: add BabyAnalytic: Baby Tracker",
     "state": "CLOSED"
   }
 ]
