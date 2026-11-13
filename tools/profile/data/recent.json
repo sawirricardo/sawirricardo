@@ -4,7 +4,7 @@
     "url": "https://github.com/hieunc229/mailflare/pull/285",
     "pushed_at": "2026-11-11T02:32:00Z",
     "desc": "fix(domains): list a mailbox manager's own domains alongside the creator's",
-    "state": "OPEN"
+    "state": "MERGED"
   },
   {
     "name": "OCA/connector-shopify",
