@@ -4,7 +4,7 @@
   "followers": 109,
   "prs": 892,
   "prs_merged": 758,
-  "stars": 288,
+  "stars": 287,
   "forks": 70,
   "repo_count": 108,
   "languages": {
@@ -44,9 +44,9 @@
     "OCA/connector-shopify": 6,
     "sawirricardo/openjek.com": 18,
     "sawirricardo/lazysvn": 12,
-    "sawirricardo/remix-realworld": 52,
+    "sawirricardo/remix-realworld": 51,
     "sawirricardo/laravel-whatsapp": 18,
     "sawirricardo/ehrcli": 0
   },
-  "updated": "2026-11-15"
+  "updated": "2026-11-16"
 }
