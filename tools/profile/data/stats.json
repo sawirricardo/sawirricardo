@@ -4,7 +4,7 @@
   "followers": 108,
   "prs": 892,
   "prs_merged": 758,
-  "stars": 287,
+  "stars": 286,
   "forks": 69,
   "repo_count": 109,
   "languages": {
@@ -38,7 +38,7 @@
   "year": 2026,
   "contributions_year": 734,
   "contributions_all": 2164,
-  "streak_current": 3,
+  "streak_current": 0,
   "streak_longest": 12,
   "project_stars": {
     "OCA/connector-shopify": 6,
@@ -48,5 +48,5 @@
     "sawirricardo/laravel-whatsapp": 18,
     "sawirricardo/ehrcli": 0
   },
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
 }
