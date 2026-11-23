@@ -1,5 +1,12 @@
 [
   {
+    "name": "trungdq88/Awesome-Black-Friday-Cyber-Monday",
+    "url": "https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/pull/3057",
+    "pushed_at": "2026-11-23T01:05:08Z",
+    "desc": "Rindraw: sale starts Nov 23, through Dec 1",
+    "state": "MERGED"
+  },
+  {
     "name": "hieunc229/mailflare",
     "url": "https://github.com/hieunc229/mailflare/pull/285",
     "pushed_at": "2026-11-11T02:32:00Z",
@@ -25,13 +32,6 @@
     "url": "https://github.com/microsoft/winget-pkgs/pull/472009",
     "pushed_at": "2026-11-06T04:36:33Z",
     "desc": "New version: SawirStudio.LazySVN 0.4.1",
-    "state": "CLOSED"
-  },
-  {
-    "name": "microsoft/winget-pkgs",
-    "url": "https://github.com/microsoft/winget-pkgs/pull/471978",
-    "pushed_at": "2026-11-06T04:18:35Z",
-    "desc": "New version: SawirStudio.LazySVN 0.4.0",
     "state": "CLOSED"
   }
 ]
