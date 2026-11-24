@@ -1,5 +1,12 @@
 [
   {
+    "name": "OCA/connector-shopify",
+    "url": "https://github.com/OCA/connector-shopify/pull/77",
+    "pushed_at": "2026-11-24T07:29:53Z",
+    "desc": "[19.0][FW] shopify_connector: dashboard and inventory fixes from 18.0",
+    "state": "OPEN"
+  },
+  {
     "name": "trungdq88/Awesome-Black-Friday-Cyber-Monday",
     "url": "https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/pull/3057",
     "pushed_at": "2026-11-23T01:05:08Z",
@@ -26,12 +33,5 @@
     "pushed_at": "2026-11-06T11:02:21Z",
     "desc": "New version: SawirStudio.LazySVN 0.4.2",
     "state": "OPEN"
-  },
-  {
-    "name": "microsoft/winget-pkgs",
-    "url": "https://github.com/microsoft/winget-pkgs/pull/472009",
-    "pushed_at": "2026-11-06T04:36:33Z",
-    "desc": "New version: SawirStudio.LazySVN 0.4.1",
-    "state": "CLOSED"
   }
 ]
