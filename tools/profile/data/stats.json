@@ -9,15 +9,15 @@
   "repo_count": 109,
   "languages": {
     "PHP": 23939894,
-    "HTML": 15274815,
+    "HTML": 15531767,
     "JavaScript": 4166883,
     "Blade": 584922,
     "Vue": 413913,
     "TypeScript": 214105,
     "CSS": 185715,
+    "Python": 143219,
     "Go": 142724,
     "Rust": 138202,
-    "Python": 132122,
     "Zig": 89423,
     "Ruby": 84382,
     "Swift": 69045,
@@ -36,17 +36,17 @@
     "Procfile": 86
   },
   "year": 2026,
-  "contributions_year": 744,
-  "contributions_all": 2174,
-  "streak_current": 3,
+  "contributions_year": 745,
+  "contributions_all": 2175,
+  "streak_current": 4,
   "streak_longest": 12,
   "project_stars": {
     "OCA/connector-shopify": 6,
     "sawirricardo/openjek.com": 18,
-    "sawirricardo/lazysvn": 12,
+    "sawirricardo/lazysvn": 13,
     "sawirricardo/remix-realworld": 51,
     "sawirricardo/laravel-whatsapp": 18,
     "sawirricardo/ehrcli": 0
   },
-  "updated": "2026-11-25"
+  "updated": "2026-11-26"
 }
