@@ -1,37 +1,37 @@
 [
   {
-    "name": "OCA/connector-shopify",
-    "url": "https://github.com/OCA/connector-shopify/pull/77",
-    "pushed_at": "2026-11-24T07:29:53Z",
-    "desc": "[19.0][FW] shopify_connector: dashboard and inventory fixes from 18.0",
+    "name": "onmyway133/blackfriday",
+    "url": "https://github.com/onmyway133/blackfriday/pull/432",
+    "pushed_at": "2026-11-27T09:27:46Z",
+    "desc": "Add Rindraw: 50% off one-time, and Par: 60% off",
     "state": "MERGED"
   },
   {
-    "name": "trungdq88/Awesome-Black-Friday-Cyber-Monday",
-    "url": "https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/pull/3057",
-    "pushed_at": "2026-11-23T01:05:08Z",
-    "desc": "Rindraw: sale starts Nov 23, through Dec 1",
-    "state": "MERGED"
-  },
-  {
-    "name": "hieunc229/mailflare",
-    "url": "https://github.com/hieunc229/mailflare/pull/285",
-    "pushed_at": "2026-11-11T02:32:00Z",
-    "desc": "fix(domains): list a mailbox manager's own domains alongside the creator's",
-    "state": "MERGED"
-  },
-  {
-    "name": "OCA/connector-shopify",
-    "url": "https://github.com/OCA/connector-shopify/pull/54",
-    "pushed_at": "2026-11-07T08:38:05Z",
-    "desc": "[19.0][IMP] shopify_connector: search order address contacts in the database",
-    "state": "MERGED"
-  },
-  {
-    "name": "microsoft/winget-pkgs",
-    "url": "https://github.com/microsoft/winget-pkgs/pull/472266",
-    "pushed_at": "2026-11-06T11:02:21Z",
-    "desc": "New version: SawirStudio.LazySVN 0.4.2",
+    "name": "danmindru/rare-big-deal",
+    "url": "https://github.com/danmindru/rare-big-deal/pull/1391",
+    "pushed_at": "2026-11-27T09:26:57Z",
+    "desc": "Add Sawir Studio deals: Rindraw, Par, CleanStorage, BabyAnalytic, Math Daily, Squishu, Pawlitics",
     "state": "OPEN"
+  },
+  {
+    "name": "s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps",
+    "url": "https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/349",
+    "pushed_at": "2026-11-27T09:26:13Z",
+    "desc": "Add Rindraw (Design Tools): 50% off, Nov 23 - Dec 1",
+    "state": "OPEN"
+  },
+  {
+    "name": "mRs-/Black-Friday-Deals",
+    "url": "https://github.com/mRs-/Black-Friday-Deals/pull/1778",
+    "pushed_at": "2026-11-27T09:25:42Z",
+    "desc": "Add Sawir Studio deals: Rindraw, Par, BabyAnalytic, Math Daily, CleanStorage, Squishu, Pawlitics",
+    "state": "MERGED"
+  },
+  {
+    "name": "imrishit98/Black-Friday-and-Cyber-Monday-Deals",
+    "url": "https://github.com/imrishit98/Black-Friday-and-Cyber-Monday-Deals/pull/92",
+    "pushed_at": "2026-11-27T06:32:04Z",
+    "desc": "Add Rindraw to Design Tools (Black Friday 2026: 50% off)",
+    "state": "MERGED"
   }
 ]
